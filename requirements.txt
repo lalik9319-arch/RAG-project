@@ -1,0 +1,12 @@
+llama-index
+llama-index-embeddings-cohere
+llama-index-llms-cohere
+llama-index-llms-openai
+llama-index-vector-stores-pinecone
+llama-index-utils-workflow
+pinecone-client
+cohere
+openai
+gradio
+python-dotenv
+pydantic
