@@ -20,6 +20,7 @@ from config import COHERE_API_KEY, PINECONE_API_KEY, MY_PROJECT_PATH
 from models import ExtractedProjectData, Decision, Rule, WarningItem
 
 
+
 # --- Events ---
 class QueryEvent(Event):
     query: str
